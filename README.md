@@ -1,2 +1,3 @@
-aphorism-config
-===============
+# aphorism-config
+
+Sensible Java Application Configuration
